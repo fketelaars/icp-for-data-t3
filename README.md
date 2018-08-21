@@ -1,1 +1,1 @@
-# icp-for-data-t3
+# Assets for ICP for Data T3 training
